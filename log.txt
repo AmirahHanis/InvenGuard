@@ -1,0 +1,8 @@
+2024-03-21 19:24:46 - Failed login attempt for username: AM2007006931
+2024-03-21 20:21:20 - Successful login for username: admin
+2024-03-21 20:21:41 - Failed login attempt for username: admin
+2024-03-21 20:21:54 - Failed login attempt for non-existing username: AM2007006932
+2024-03-22 14:26:58 - Successful login for username: admin
+2024-03-22 14:52:59 - Successful login for username: admin
+2024-03-22 14:57:34 - Failed login attempt for username: admin
+2024-03-22 14:57:46 - Successful login for username: admin
